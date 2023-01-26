@@ -1,0 +1,15 @@
+C:\Users\zimor\RiderProjects\bitcom\bitcom\bin\Debug\net6.0\bitcom.exe
+C:\Users\zimor\RiderProjects\bitcom\bitcom\bin\Debug\net6.0\bitcom.deps.json
+C:\Users\zimor\RiderProjects\bitcom\bitcom\bin\Debug\net6.0\bitcom.runtimeconfig.json
+C:\Users\zimor\RiderProjects\bitcom\bitcom\bin\Debug\net6.0\bitcom.dll
+C:\Users\zimor\RiderProjects\bitcom\bitcom\bin\Debug\net6.0\bitcom.pdb
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.csproj.AssemblyReference.cache
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.AssemblyInfoInputs.cache
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.AssemblyInfo.cs
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.csproj.CoreCompileInputs.cache
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.dll
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\refint\bitcom.dll
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.pdb
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\bitcom.genruntimeconfig.cache
+C:\Users\zimor\RiderProjects\bitcom\bitcom\obj\Debug\net6.0\ref\bitcom.dll
